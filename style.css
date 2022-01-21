@@ -1,3 +1,10 @@
 .panda-bg-info{
     background-color: #fceae8
 }
+.panda-button{
+    color: white;
+    border-radius: 8px;
+    border: none;
+    background-color: tomato;
+    padding: 9px 25px;
+}
